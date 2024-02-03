@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <ResearchTabDef>
+        <defName>TMPL_ResearchTab_Template</defName>
+        <label>RWModTemplate</label>
+    </ResearchTabDef>
+</Defs>
